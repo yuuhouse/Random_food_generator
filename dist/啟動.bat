@@ -1,0 +1,1 @@
+start "" "D:\Coding\PyLearning\random_food_generator\dist\random_food_generatorV1.exe"
