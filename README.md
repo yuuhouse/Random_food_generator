@@ -3,6 +3,7 @@
 # 隨機吃啥產生器
 
 突發奇想臨時用 GPT-4o 復刻了我以前用 C# 寫的隨機菜單產生器。
+<br>99.9%AI製造程式碼
 
 ![image](https://github.com/yuuhouse/Random_food_generator/blob/main/Screenshot%202024-05-29%20220427.png)
 
